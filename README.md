@@ -1,4 +1,4 @@
-# Legacy Restaurant Finder with ASP.NET Web Forms
+# Legacy Restaurant Finder ( Review ) with ASP.NET Web Forms
 
 An educational, database-driven restaurant review and reservation management application developed using C#, ASP.NET Web Forms (.NET Framework 4.7.2), and Microsoft SQL Server.
 
@@ -22,7 +22,8 @@ An educational, database-driven restaurant review and reservation management app
 
 ## Notes
 
-This is an educational project developed for CIS 3342 — Server-Side Web Application Development.
+This educational project was developed for CIS 3342 — Server-Side Web Application Development.
+It started as a restaurant finder; later, the features shifted more toward review-based.
 
 Database connection credentials have been replaced with placeholders for security.
 The application is currently being modernized separately using ASP.NET Core MVC, Razor Views, and Web APIs.
