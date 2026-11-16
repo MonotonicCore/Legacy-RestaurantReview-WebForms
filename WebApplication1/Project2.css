@@ -1,0 +1,103 @@
+﻿body {
+	margin: 0;
+	font-family: Arial, sans-serif;
+	background-color: #f5f5f5;
+	color: #222;
+}
+
+.pageContainer {
+	max-width: 900px;
+	margin: 40px auto;
+	padding: 30px;
+	background-color: white;
+	border: 1px solid #ddd;
+	box-sizing: border-box;
+}
+
+.pageContainer h1,
+.pageContainer h2 {
+	margin-top: 0;
+}
+
+.formGroup {
+	margin-bottom: 18px;
+}
+
+.formGroup label {
+	display: block;
+	font-weight: bold;
+	margin-bottom: 6px;
+}
+
+.formGroup input,
+.formGroup textarea,
+.formGroup select {
+	width: 100%;
+	max-width: 500px;
+	padding: 8px;
+	box-sizing: border-box;
+}
+
+.buttonArea {
+	margin-top: 25px;
+}
+
+.buttonArea input,
+.actionButton {
+	padding: 8px 16px;
+	margin-right: 8px;
+	cursor: pointer;
+}
+
+.errorMessage {
+	display: block;
+	margin-bottom: 15px;
+	color: #b00020;
+}
+
+.dataGrid {
+	width: 100%;
+	border-collapse: collapse;
+	margin-top: 20px;
+}
+
+.dataGrid th {
+	background-color: #f0f0f0;
+	padding: 10px;
+	text-align: left;
+}
+
+.dataGrid td {
+	padding: 10px;
+	border-bottom: 1px solid #ddd;
+}
+
+.card {
+	border: 1px solid #ddd;
+	padding: 20px;
+	margin-bottom: 20px;
+	background-color: white;
+}
+
+.topNav {
+	background-color: white;
+	border-bottom: 1px solid #ccc;
+	padding: 15px 25px;
+}
+
+.topNav a {
+	margin-right: 15px;
+	color: black;
+	text-decoration: none;
+}
+
+.loginBox {
+	max-width: 500px;
+	margin: 80px auto;
+	padding: 40px;
+	background-color: #242424;
+	border: 10px solid #8a8a8a;
+	border-radius: 15px;
+	color: white;
+	box-sizing: border-box;
+}
